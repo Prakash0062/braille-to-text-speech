@@ -1,9 +1,0 @@
-Flask>=2.3
-Werkzeug>=2.3
-Jinja2>=3.1
-numpy==1.24.3
-gunicorn==20.0.4
-requests==2.23.0
-requests-cache==0.5.2
-opencv-python-headless==4.5.5.64
-# Remove opencv-python or align versions if you need both
