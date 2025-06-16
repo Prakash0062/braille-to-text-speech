@@ -1,5 +1,5 @@
 opencv-python==4.5.5.64
-Flask==1.1.1
+streamlit 
 requests==2.23.0
 requests-cache==0.5.2
 Werkzeug==0.16.0
